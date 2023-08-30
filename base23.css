@@ -808,6 +808,24 @@ a, a:hover, a:focus, a:active {
 .select_schedule {
 
 
+
+ }
+
+ select {
+   width: 350px;
+   height: 51px;
+   padding-left:  56px;
+   border: none;
+   border-radius: 11px;
+   font-family: "Inter";
+   font-style: normal;
+   font-weight: 400;
+   font-size: 14px;
+   line-height: 24px;
+   background: #faf7f5;
+   color: #8a9193;
+   margin-top: 1px;
+   margin-left: 1px;
    width: 100%;
    height: 56px;
 
@@ -821,23 +839,6 @@ a, a:hover, a:focus, a:active {
    background: #faf7f5;
    color: #8a9193;
    margin-top: 20px;
- }
-
- select {
-   width: 350px;
-   height: 51px;
-   padding: 12px 20px;
-   border: none;
-   border-radius: 11px;
-   font-family: "Inter";
-   font-style: normal;
-   font-weight: 400;
-   font-size: 14px;
-   line-height: 24px;
-   background: #faf7f5;
-   color: #8a9193;
-   margin-top: 1px;
-   margin-left: 50px;
  }
 
  select[type="select"] {
